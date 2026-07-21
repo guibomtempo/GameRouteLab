@@ -1,0 +1,38 @@
+# WireGuard
+*.key
+*.pem
+*.conf
+
+# SSH
+id_rsa
+id_ed25519
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Linux
+*.swp
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Environment
+.env
+
+# Terraform
+*.tfstate
+
+# Temporary
+tmp/
+
+# Certificates
+*.crt
